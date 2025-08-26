@@ -20,11 +20,5 @@ class CustomException(Exception):
         return self.error_message
     
 
-if __name__ == '__main__':
-    try :
-        logger.logging.info("Entered in Try Block")
-        a=1/0
-        print("This will not be printed ",a)
-    except Exception as e:
-        raise CustomException(e,sys)
+
 
