@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Dell/OneDrive/Desktop/NetworkSecurity/mlruns/0/models/m-775f638ce34642df8495503d1b9850d2/artifacts
+creation_timestamp: 1757060660581
+experiment_id: '0'
+last_updated_timestamp: 1757060666645
+model_id: m-775f638ce34642df8495503d1b9850d2
+model_type: null
+name: model
+source_run_id: 6d0dd23c8a174718b64daf6d1e70c041
+status: 2
+status_message: null
